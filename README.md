@@ -1,6 +1,4 @@
-# brocade_fabric_discoverer
-
-zabbix_db_syncer
+brocade_fabric_discoverer
 =========
 
 Discover fabrics via brocade network advisor api.
@@ -17,8 +15,6 @@ python libs:
   - getpass
   - re
   - argparse
-
-Directory /opt/zabbixdb_dumps/ must exist.
 
 
 Usage
